@@ -14,7 +14,7 @@ Você poderá testar ele no lado do servidor com o __Node__ ou no lado do client
 Instalando o Mocha
 ---
 
-Para instalar o __Mocha__ é preciso ter o [Node.js](/node.js/) instalado, se for o caso leia o artigo
+Para instalar o __Mocha__ é preciso ter o [Node.js](/nodejs/) instalado, se for o caso leia o artigo
 ["Como instalar o Node"](/linux/instalando-nodejs/)  na seção __Linux - Cookbook__.
 
 Você também precisará [instalar o NPM](/linux/instalando-npm/).
@@ -58,7 +58,7 @@ Obviamente, salve o arquivo dentro da pasta `test`, ficará assim `/foo/test/pri
 
 ```javascript
 var assert = require('assert');
- 
+
 describe('Alguns testes de exemplo', function(){
 
     it('2 + 2 deve ser igual a 4', function(){
@@ -69,7 +69,7 @@ describe('Alguns testes de exemplo', function(){
         assert.equal(8, 2 * 2);
     });
 
-}); 
+});
 ```
 
 No terminal, tenha a certeza de estar na pasta `/foo`, digite `pwd` para descobrir.
@@ -84,7 +84,7 @@ Execute o __Mocha__...
 Sua tela deve ser parecida com a minha:
 
     Alguns testes de exemplo
-      ✓ 2 + 2 deve ser igual a 4 
+      ✓ 2 + 2 deve ser igual a 4
       1) 2 * 2 deve ser igual a 8 (nota 0 em matemática)
 
 

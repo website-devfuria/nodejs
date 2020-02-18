@@ -7,7 +7,7 @@ ordem:       5
 
 O __Shouldjs__ é um framework de asserção para testes unitários (framework-agnostic assertion library), quer dizer, não
 é um framework de teste e sim de asserção. Sozinho ele não terá muita utilidade, mas aliando a um framwwork de teste,
-como por exemplo o [Mocha](/node.js/mocha-teste-seu-javascript/), ele se torna um grande aliado para a 
+como por exemplo o [Mocha](/nodejs/mocha-teste-seu-javascript/), ele se torna um grande aliado para a
 escrita de testes.
 
 
@@ -41,7 +41,7 @@ Arrays...
     [1,2,3].should.eql([1,2,3]);
     [1, 2, 3].should.have.length(3);
     [1,2,3].should.containEql(1);
-    [].should.be.an.instanceOf(Array); 
+    [].should.be.an.instanceOf(Array);
 
 
 Strings...
@@ -70,9 +70,9 @@ Testando JSON...
 
     ({ foo: 'bar' }).should.eql({ foo: 'bar' });
     ({}).should.be.an.Object;
-    var jsonVar = {a:1, b:2}; 
+    var jsonVar = {a:1, b:2};
     jsonVar.should.have.property('a');
-    var obj = { foo: 'bar', baz: 'raz' }; 
+    var obj = { foo: 'bar', baz: 'raz' };
     (obj).should.containEql({ foo: 'bar', baz: 'raz' });
     obj.should.have.keys('foo', 'baz');
     obj.should.have.keys(['foo', 'baz']);

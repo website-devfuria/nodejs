@@ -11,7 +11,7 @@ ordem:       2
         Se você caiu de paraquêdas nesta página, nós estamos na subseção <strong>Node.js</strong> aprendo a programar
         <strong>Javascript</strong> do lado do servidor com a ajuda do programa <strong>learnyounode (nodeschool)</strong>.
     </p>
-    <p>Talvez você queira dar uma lida nesta <a href="/node.js/introducao-ao-learnyounode/">introdução</a>.</p>
+    <p>Talvez você queira dar uma lida nesta <a href="/nodejs/introducao-ao-learnyounode/">introdução</a>.</p>
 </div>
 
 

@@ -4,12 +4,12 @@ title:       Explorando a minúscula biblioteca utils-merge
 description: O pacote utils-merge é uma biblioteca que possui apenas uma função e será objeto de estudos nesta matéria.
 ---
 
-Este artigo é um estudo com exemplos reais da utilização básica do [Node.js](/node.js/).
+Este artigo é um estudo com exemplos reais da utilização básica do [Node.js](/nodejs/).
 Ele demonstra como é a dinâmica ou o dia a dia de se trabalhar com Node.js, claro que estamos falando dos aspectos
 básicos e práticos, um artigo "mão na massa".
 Iremos utilizar o pacote [utils-merge](https://www.npmjs.com/package/utils-merge) como exemplo.
 Vamos aprender a instalar o pacote via [npm](/linux/instalando-npm/), vamos também [clonar](/git/git-clone/) o projeto
-do [github](/git/) e rodar os teste com o [mocha](/node.js/testando-javascript-com-o-mocha/).
+do [github](/git/) e rodar os teste com o [mocha](/nodejs/testando-javascript-com-o-mocha/).
 Portanto, eu espero que você tenha um conhecimento mínimo do [git e git-hub](/git/) e também tenha uma certa intimidade
 com o [terminal do Linux](http://www.hardware.com.br/livros/linux/usando-terminal.html), sem se esquecer
 do próprio [Linux](/linux/). Você também deve ter [instalado o Node](/linux/instalando-nodejs/) e ter
@@ -106,7 +106,7 @@ A URL do projeto é `https://github.com/jaredhanson/utils-merge.git`.
 
 Agora sim podemos rodar os comando sugeridos na pasta onde foi clonado o repositório.
 
-Ao executar `npm install` ele instala as dependências dos testes, o [chai e o mocha](/node.js/testando-javascript-com-o-mocha/).
+Ao executar `npm install` ele instala as dependências dos testes, o [chai e o mocha](/nodejs/testando-javascript-com-o-mocha/).
 
     chai@1.10.0 node_modules/chai
     ├── assertion-error@1.0.0

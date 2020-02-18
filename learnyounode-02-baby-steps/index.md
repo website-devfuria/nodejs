@@ -11,7 +11,7 @@ ordem:       3
         Se você caiu de paraquêdas nesta página, nós estamos na subseção <strong>Node.js</strong> aprendo a programar
         <strong>Javascript</strong> do lado do servidor com a ajuda do programa <strong>learnyounode (nodeschool)</strong>.
     </p>
-    <p>Talvez você queira dar uma lida nesta <a href="/node.js/introducao-ao-learnyounode/">introdução</a>.</p>
+    <p>Talvez você queira dar uma lida nesta <a href="/nodejs/introducao-ao-learnyounode/">introdução</a>.</p>
 </div>
 
 
@@ -53,11 +53,11 @@ precisa se preocupar em fornecê-los. Para testar seu programa sem a verificaç�
 para cada exercício.
 
 
-### Solução 
+### Solução
 
 ```javascript
 'use strict'
-    
+
 let result = 0
 
 for (let i = 2; i < process.argv.length; i++) {

@@ -11,7 +11,7 @@ ordem:       4
         Se você caiu de paraquêdas nesta página, nós estamos na subseção <strong>Node.js</strong> aprendo a programar
         <strong>Javascript</strong> do lado do servidor com a ajuda do programa <strong>learnyounode (nodeschool)</strong>.
     </p>
-    <p>Talvez você queira dar uma lida nesta <a href="/node.js/introducao-ao-learnyounode/">introdução</a>.</p>
+    <p>Talvez você queira dar uma lida nesta <a href="/nodejs/introducao-ao-learnyounode/">introdução</a>.</p>
 </div>
 
 
@@ -126,7 +126,7 @@ console.log(lines)
 ```
 
 E não podemos nos esquecer de que o nome do arquivo deve chegar como um parâmetro de entrada na execução do script.
-Vimos como fazer isso no exercício [02 baby steps](/node.js/learnyounode-02-baby-steps//).
+Vimos como fazer isso no exercício [02 baby steps](/nodejs/learnyounode-02-baby-steps//).
 
 ```javascript
 ...

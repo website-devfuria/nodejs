@@ -6,7 +6,7 @@ ordem:       2
 ---
 
 Este é o segundo artigo sobre o framework [Express.js](http://expressjs.com/). Estou assumindo que você
-já leu, praticou e entendeu o artigo de [introdução ao Express](/javascript/node.js/expressjs-introducao/).
+já leu, praticou e entendeu o artigo de [introdução ao Express](/javascript/nodejs/expressjs-introducao/).
 
 Abaixo vemos um exemplo simplista para algumas rotas definidas.
 
