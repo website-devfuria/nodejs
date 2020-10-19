@@ -1,6 +1,6 @@
 # DevFuria - Node.js
 
-Seção sobre o NOdejs no devfuria.
+Seção sobre o Nodejs no devfuria.
 
 
 

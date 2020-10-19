@@ -34,38 +34,6 @@ Leia este artigo para aprender [como instalar o Node.js no Linux](/linux/instala
 
 
 
-## Nodeschool
-
-A Nodeschool mantém uma série de tutoriais interativos, um deles (acho que o primeiro) foi o __learnyounode__.
-
-- [Nodeschool](http://nodeschool.io/)
-- [Nodeschool - traduzido](https://github.com/lucasfcosta/learnyounode-pt-br)
-
-A ideía é você aprender com o próprio __Node.js__, ou seja pelo terminal você instalará um programa __Node.js__ (learnyounode),
-depois criará arquivos em __JavaScript__ que serão executados no terminal pelo __learnyounode__. Talvez você precisa de
-nossa ajuda com uma [introdução ao 'learn you node'](introducao-ao-learnyounode/), caso contrário pode partir para a lista de
-exercícios...
-
-
-<div class="list-group">
-    <a href="introducao-ao-learnyounode/" class="list-group-item ">Nodeschool - Introdução ao learn you node</a>
-    <a href="learnyounode-01-hello-world/" class="list-group-item ">Nodeschool - hello world</a>
-    <a href="learnyounode-02-baby-steps/" class="list-group-item ">Nodeschool - baby steps</a>
-    <a href="learnyounode-03-my-first-io/" class="list-group-item ">Nodeschool - My First I/O!</a>
-    <a href="learnyounode-04-my-first-async-io/" class="list-group-item ">Nodeschool - My First Async I/O!</a>
-    <a href="learnyounode-05-filtered-ls/" class="list-group-item ">Nodeschool - Filtered LS</a>
-    <li class="list-group-item disabled">Make it modular (em breve)</li>
-    <li class="list-group-item disabled">HTTP client (em breve)</li>
-    <li class="list-group-item disabled">HTTP collect (em breve)</li>
-    <li class="list-group-item disabled">Juggling Async (em breve)</li>
-    <li class="list-group-item disabled">Time server (em breve)</li>
-    <li class="list-group-item disabled">HTTP file server (em breve)</li>
-    <li class="list-group-item disabled">HTTP uppercaserer (em breve)</li>
-    <li class="list-group-item disabled">HTTP Json API server (em breve)</li>
-</div>
-
-
-
 ## Explorando bibliotecas
 
 Descubra algumas das mais utilizadas bibliotecas para Node.js.
@@ -97,4 +65,3 @@ O [Express.js](http://expressjs.com/) é um dos frameworks mais utilizados do __
 ## Site Oficial
 
 - [Node.js](http://nodejs.org/)
-- [Node.js - comunidade Brasileira](http://nodebr.com/)
