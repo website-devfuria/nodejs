@@ -1,7 +1,7 @@
 ---
 layout:      secao
 title:       Node.js
-description: Aprenda Node.js
+description: Descobrindo o Node.js
 ---
 
 
@@ -24,33 +24,10 @@ O __Node.js__ também possui um terminal interativo, digite `node` no terminal e
 Do lado do servidor, temos a variável `process` que seria equivalente a conhecida
 [variável global window](/javascript/objeto-global/) do lado do cliente.
 
-Assista este vídeo para saber mais sobre [o que é o Node.js](https://www.youtube.com/watch?v=B0hc7hmpCD4)
-
-
 
 ## Instalando o Node.js
 
 Leia este artigo para aprender [como instalar o Node.js no Linux](/linux/instalando-nodejs/).
-
-
-
-## Explorando bibliotecas
-
-Descubra algumas das mais utilizadas bibliotecas para Node.js.
-
-<div class="list-group">
-    <a href="explorando-a-minuscula-biblioteca-utils-merge/" class="list-group-item ">Explorando a minúscula biblioteca utils-merge</a>
-</div>
-
-
-
-## Testes unitários (Unit Test) com Node.js
-
-Em breve, uma série de arquivos falando sobre __testes unitários__ e JavaScript no lado do servidor.
-
-{% include get-capitulo.html page_serie="node-unit-tests" %}
-{% include menus.html %}
-
 
 
 ## Express
@@ -59,6 +36,14 @@ O [Express.js](http://expressjs.com/) é um dos frameworks mais utilizados do __
 
 
 {% include get-capitulo.html page_serie="node-express" %}
+{% include menus.html %}
+
+
+## Testes unitários (Unit Test) com Node.js
+
+Em breve, uma série de arquivos falando sobre __testes unitários__ e JavaScript no lado do servidor.
+
+{% include get-capitulo.html page_serie="node-unit-tests" %}
 {% include menus.html %}
 
 
