@@ -9,7 +9,7 @@ redirect_from:
 
 O __Shouldjs__ é um framework de asserção para testes unitários (framework-agnostic assertion library), quer dizer, não
 é um framework de teste e sim de asserção. Sozinho ele não terá muita utilidade, mas aliando a um framwwork de teste,
-como por exemplo o [Mocha](/nodejs/mocha-teste-seu-javascript/), ele se torna um grande aliado para a
+como por exemplo o [Mocha](/nodejs/testando-javascript-com-o-mocha/), ele se torna um grande aliado para a
 escrita de testes.
 
 
