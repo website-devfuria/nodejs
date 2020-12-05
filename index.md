@@ -27,7 +27,8 @@ Do lado do servidor, temos a variável `process` que seria equivalente a conheci
 
 ## Instalando o Node.js
 
-Leia este artigo para aprender [como instalar o Node.js no Linux](/linux/instalando-nodejs/).
+{% include get-capitulo.html page_serie="instalacao" %}
+{% include menus.html %}
 
 
 ## Express
