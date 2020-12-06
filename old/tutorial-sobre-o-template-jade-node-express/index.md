@@ -90,7 +90,7 @@ Veja outros exemplos:
 Começo rápido
 ---
 
-Primeiro, vamos instalar a biblioteca a partir do [npm](/linux/instalando-npm/). Para tal, vamos criar uma pasta qualquer
+Primeiro, vamos instalar a biblioteca a partir do [npm](/nodejs/instalando-npm/). Para tal, vamos criar uma pasta qualquer
 para o nosso experimento.
 
     mkdir ~/seu-projeto

@@ -17,9 +17,9 @@ Instalando o Mocha
 ---
 
 Para instalar o __Mocha__ é preciso ter o [Node.js](/nodejs/) instalado, se for o caso leia o artigo
-["Como instalar o Node"](/linux/instalando-nodejs/)  na seção __Linux - Cookbook__.
+["Como instalar o Node"](/nodejs/melhor-forma-para-instalar-nodejs/)  na seção __Linux - Cookbook__.
 
-Você também precisará [instalar o NPM](/linux/instalando-npm/).
+Você também precisará [instalar o NPM](/nodejs/instalando-npm/).
 
 Tendo o __Node__ e o __NPM__ instalados, execute no terminal o comando abaixo.
 

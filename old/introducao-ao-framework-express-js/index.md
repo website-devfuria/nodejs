@@ -24,7 +24,7 @@ Crie uma pasta qualquer, exemplo:
     mkdir myapp
     cd myapp
 
-Vamos inicializar um  pacote [npm](/linux/instalando-npm/), o comando abaixo lhe fará algumas perguntas, ele depende dessas
+Vamos inicializar um  pacote [npm](/nodejs/instalando-npm/), o comando abaixo lhe fará algumas perguntas, ele depende dessas
 informações para criar o arquivo `package.json`.
 
     npm init

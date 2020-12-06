@@ -10,11 +10,11 @@ Este artigo é um estudo com exemplos reais da utilização básica do [Node.js]
 Ele demonstra como é a dinâmica ou o dia a dia de se trabalhar com Node.js, claro que estamos falando dos aspectos
 básicos e práticos, um artigo "mão na massa".
 Iremos utilizar o pacote [utils-merge](https://www.npmjs.com/package/utils-merge) como exemplo.
-Vamos aprender a instalar o pacote via [npm](/linux/instalando-npm/), vamos também [clonar](/git/git-clone/) o projeto
+Vamos aprender a instalar o pacote via [npm](/nodejs/instalando-npm/), vamos também [clonar](/git/git-clone/) o projeto
 do [github](/git/) e rodar os teste com o [mocha](/nodejs/testando-javascript-com-o-mocha/).
 Portanto, eu espero que você tenha um conhecimento mínimo do [git e git-hub](/git/) e também tenha uma certa intimidade
 com o [terminal do Linux](http://www.hardware.com.br/livros/linux/usando-terminal.html), sem se esquecer
-do próprio [Linux](/linux/). Você também deve ter [instalado o Node](/linux/instalando-nodejs/) e ter
+do próprio [Linux](/linux/). Você também deve ter [instalado o Node](/nodejs/melhor-forma-para-instalar-nodejs/) e ter
 praticado um pouco de [JavaScript](/javascript/).
 
 
@@ -49,7 +49,7 @@ Só sei que como objeto de estudos ela se mostrou sem igual, talvez seja isso. E
 
 ### Experimentando
 
-Primeiro, vamos instalar a biblioteca a partir do [npm](/linux/instalando-npm/). Para tal, vamos criar uma pasta qualquer
+Primeiro, vamos instalar a biblioteca a partir do [npm](/nodejs/instalando-npm/). Para tal, vamos criar uma pasta qualquer
 para o nosso experimento.
 
     mkdir ~/seu-projeto

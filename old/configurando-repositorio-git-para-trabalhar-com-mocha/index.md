@@ -11,8 +11,8 @@ Este artigo é uma dica de como configurar seu repositório no [GitHub](/git/) u
 JavaScript (Node.js) e utilizar o framework de testes [mocha](http://mochajs.org/). Também
 veremos como o __npm__ poderá nos auxiliar com esse objetivo.
 
-Indico o artigo para quem já experimentou o Node, o npm e o Mocha. Você deve ter o [Node.js](/linux/instalando-nodejs/)
-instalado e o [npm](/linux/instalando-npm/) também.
+Indico o artigo para quem já experimentou o Node, o npm e o Mocha. Você deve ter o [Node.js](/nodejs/melhor-forma-para-instalar-nodejs/)
+instalado e o [npm](/nodejs/instalando-npm/) também.
 
 Imagine que você encontrou uma aplicação qualquer no GitHub e pretende utilizá-la, porém, antes disso, você decide
 executar os testes da aplicação.

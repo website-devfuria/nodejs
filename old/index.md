@@ -30,7 +30,7 @@ Assista este vídeo para saber mais sobre [o que é o Node.js](https://www.youtu
 
 ## Instalando o Node.js
 
-Leia este artigo para aprender [como instalar o Node.js no Linux](/linux/instalando-nodejs/).
+Leia este artigo para aprender [como instalar o Node.js no Linux](/nodejs/melhor-forma-para-instalar-nodejs/).
 
 
 

@@ -9,7 +9,7 @@ ordem:       2
 
 [NPM](http://nodebr.com/o-que-e-a-npm-do-nodejs/) é o nome reduzido de Node Package Manager (Gerenciador
 de Pacotes do Node). A NPM é duas coisas: primeiro, o mais importante, é um repositório online para publicação de projetos
-de código aberto para o [Node.js](/javascript/nodejs/); segundo, ele é um utilitário de linha de comando que interage
+de código aberto para o [Node.js](/nodejs/); segundo, ele é um utilitário de linha de comando que interage
 com este repositório online, que ajuda na instalação de pacotes, gerenciamento de versão e gerenciamento de dependências.
 
 
@@ -40,11 +40,11 @@ Na hora de instalar o npm e o nodejs, o ideal, antes de tudo, é instalar um car
 Com ele você pode instalar várias versões do node e do npm. E o melhor de tudo, você pode alternar facilmente entre as
 versões instaladas.
 
-Então, vá para o artigo [Instalando o Node.js](/linux/instalando-nodejs/) e veja  a receita "Instalando o node.js através do nvm".
+Então, vá para o artigo [Instalando o Node.js](/nodejs/melhor-forma-para-instalar-nodejs/) e veja  a receita "Instalando o node.js através do nvm".
 
 
 ### Como aprender node js ?
 
-Eu preparei uma série de artigos para você [aprender Node.js](/javascript/nodejs/).
+Eu preparei uma série de artigos para você [aprender Node.js](/nodejs/).
 
 Divirta-se!!!

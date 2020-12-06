@@ -13,9 +13,9 @@ Digo mais, ele é do tipo "self service"! Você instala o programa __learyounode
 feito para rodar no __Node.js__. Ele possui uma lista com 13 exercícios que você vai desenvolvendo e conferindo com a
 ajuda do programa.
 
-A primeira coisa que você precisa fazer é [instalar o Node.js no Linux](/linux/instalando-nodejs/).
+A primeira coisa que você precisa fazer é [instalar o Node.js no Linux](/nodejs/melhor-forma-para-instalar-nodejs/).
 
-A segunda coisa é [instalar o NPM](/linux/instalando-npm/) que nada mais é do que é um repositório online para publicação
+A segunda coisa é [instalar o NPM](/nodejs/instalando-npm/) que nada mais é do que é um repositório online para publicação
 de projetos de código aberto para o __Node.js__.
 
 Com o __Node.js__ e o __NPM__ devidamente instalados, podemos instalar o __learyounode__.
